@@ -45,7 +45,7 @@ curl.cainfo=/path/to/cacert.pem
 
 在网站根目录的`wp-config.php`中打开`WP_DEBUG`，查看具体错误信息。
 
-5. A TimThumb error has occured
+5. `A TimThumb error has occured`
 
 > 此问题也会导致图片资源不可见
 
@@ -59,7 +59,7 @@ You may not fetch images from that site. To enable this site in timthumb, you ca
 
 部分主体使用了TimThumb，所以访问的地址是`timthumb.php?src=xxx`，需要修改`timthumb.php`文件，在`$ALLOWED_SITES`加入对应的域名
 
-6. 报错：Call to undefind function get_home_path()
+6. 报错：`Call to undefind function get_home_path()`
 
 修改插件文件，加入以下代码
 
