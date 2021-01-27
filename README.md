@@ -57,7 +57,7 @@ The following error(s) occured:
 You may not fetch images from that site. To enable this site in timthumb, you can either add it to $ALLOWED_SITES and set ALLOW_EXTERNAL=true. Or you can set ALLOW_ALL_EXTERNAL_SITES=true, depending on your security needs.
 ```
 
-部分主体使用了TimThumb，所以访问的地址是`timthumb.php?src=xxx`，需要修改`timthumb.php`文件，在`$ALLOWED_SITES`加入对应的域名
+部分主题使用了TimThumb，所以访问的地址是`timthumb.php?src=xxx`，需要修改`timthumb.php`文件，在`$ALLOWED_SITES`加入对应的域名
 
 6. 报错：`Call to undefind function get_home_path()`
 
