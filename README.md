@@ -69,6 +69,12 @@ if (!function_exists('get_home_path')) {
 }
 ```
 
+7. 腾讯云 COS 后缀增加了万象文字水印代码却不显示水印
+
+这是由于 CDN 加速导致的，比如同一城市的 CDN 节点被其他人访问过就会留下缓存，如果其他人访问时绕过了文字水印（通常在部署测试的时候容易发生这种情况）。
+
+只需要去 CDN 后台刷新一个缓存即可解决。
+
 ## 赞赏
 
 <img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile/images/donate.png" width="400px">
