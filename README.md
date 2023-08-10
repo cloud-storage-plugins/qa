@@ -10,7 +10,7 @@ GitHub：[sy-records](https://github.com/sy-records)
 
 <img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile/images/202012/wechat_white.png" width="400px">
 
-欢迎加入沈唁的云存储全家桶交流QQ群：887595381 [![沈唁的云存储全家桶](https://img.shields.io/badge/QQ%E7%BE%A4-887595381-orange)](https://shang.qq.com/wpa/qunwpa?idkey=24d10d0c318118e5fe2f68a1a7e9f15a7cab40a879fc475849c3726f0d538894)
+欢迎加入沈唁的云存储全家桶交流QQ群：887595381 [![沈唁的云存储全家桶](https://img.shields.io/badge/QQ%E7%BE%A4-887595381-orange)](https://go.qq52o.me/qm/ccs)
 
 ## Q&A
 
